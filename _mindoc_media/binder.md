@@ -1,11 +1,11 @@
 ---
-page: source
+page: section-name
 title: Hilton Family Binder
 media_type: image
 
 _title: Binder
 description: Photograph of the outiside of the Hilton Family Binder.
-creator: Unknown
+creator: Alma Hilton Marsells
 _date: Unknown
 rights: 
 type: 
