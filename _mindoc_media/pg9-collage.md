@@ -17,7 +17,7 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/pg9-collage.jpg 
-order: '11'
+order: 11
 layout: image_description
 ---
 
