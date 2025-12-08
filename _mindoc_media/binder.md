@@ -20,3 +20,5 @@ _path: /assets/img/binder.jpg
 order: '01'
 layout: image_description
 ---
+
+![Description]({{site.TenneseeChicago_Images}}/assets/img/binder.jpg)
