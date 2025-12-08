@@ -21,4 +21,4 @@ order: '01'
 layout: image_description
 ---
 
-![Description]({{site.TenneseeChicago_Images}}/assets/img/binder.jpg)
+![Description]({{site./TenneseeChicago_Images}}/assets/img/binder.jpg)
