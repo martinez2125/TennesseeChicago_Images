@@ -6,7 +6,7 @@ media_type: image
 _title: Portraits of Almer & Effie
 description: Portrait photographs of Almer Eric Hilton & Effie Malinda Sims
 creator: Alma Hilton Marsells
-_date:1920s
+_date: 1920s
 rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
