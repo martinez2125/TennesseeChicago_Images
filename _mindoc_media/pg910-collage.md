@@ -3,13 +3,13 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
+_title: Photos of Buckingham Fountain (Chicago) & Benton Harbor, MI (1928?-1932)
 description: 
-creator: 
-_date:
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
-type: 
-source:
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
