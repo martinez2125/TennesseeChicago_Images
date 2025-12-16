@@ -3,10 +3,10 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: Family Group Record
-description: 
-creator: 
-_date:
+_title: Family Group Record-2
+description: Page of geneaological template with baby photograph.
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
 type: 
 source:
