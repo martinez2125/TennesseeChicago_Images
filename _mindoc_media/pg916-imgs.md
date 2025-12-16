@@ -12,9 +12,9 @@ type: Physical Object
 source: Hilton Family Binder/Album
 identifier:
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Physical Photograph
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 9/15/2025
 
 _path: /assets/img/pg16-imgs.jpg 
 order: 18
