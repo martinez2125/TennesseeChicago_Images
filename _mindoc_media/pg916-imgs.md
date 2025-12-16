@@ -3,13 +3,13 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+_title: Portraits of Almer & Effie
+description: Portrait photographs of Almer Eric Hilton & Effie Malinda Sims
+creator: Alma Hilton Marsells
+_date:1920s
+rights: Fair Use
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
