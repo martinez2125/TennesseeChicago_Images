@@ -6,10 +6,10 @@ media_type: image
 _title: "Honeymoon" Pictures (June 1926)
 description: Collage of photographs of Almer & Effie Hilton's "honeymoon" in June, 1926 with written note.
 creator: Alma Hilton Marsells
-_date: Unknown
+_date: 1926
 rights:
-type: 
-source:
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
