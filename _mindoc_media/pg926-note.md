@@ -6,7 +6,7 @@ media_type: image
 _title: "Sayre School" Photo, Annotations
 description: Handwritten names of (some) of the individuals in the "Sayre School" photo.
 creator: Unknown
-_date: 1940
+_date: June 1940
 rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
