@@ -3,10 +3,10 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
+_title: Portraits of Almer & Effie; Detroit, Michigan (December 1926)
+description: Portrait photographs of Almer & Effie taken December, 1926 in Detroit and used to create two matching oval portraits.
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
 type: 
 source:
