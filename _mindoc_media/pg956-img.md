@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: /assets/img/pg956-img.jpg 
+_path: /assets/img/pg56-img.jpg 
 order: 58
 layout: image_description
 ---
