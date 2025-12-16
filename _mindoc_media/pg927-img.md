@@ -6,7 +6,7 @@ media_type: image
 _title: "Sayre School" 1940 Class Photo
 description: 
 creator: Unknown
-_date: 1940
+_date: Unknown
 rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
