@@ -3,10 +3,10 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
+_title: Almer in Front of Home (6824 W. Dickens, Chicago, IL)
+description: Photograph of Almer Hilton in front of home at 6824 W. Dickens, Chicago, IL in 1950
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
 type: 
 source:
