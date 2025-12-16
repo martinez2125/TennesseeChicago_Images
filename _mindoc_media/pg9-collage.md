@@ -3,13 +3,13 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
+_title: Collage of Childhood Photos (1928-1940)
 description: 
-creator: 
-_date:
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
-type: 
-source:
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
