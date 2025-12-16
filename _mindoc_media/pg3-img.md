@@ -3,10 +3,10 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
+_title: Chicago & Northwestern Automatic Train Control Periodic Inspections
 description: 
-creator: 
-_date:
+creator: Unknown
+_date: Unknown
 rights:
 type: 
 source:
