@@ -229,3 +229,12 @@ layout: single_page
 {% include media_next.html pages=media %}
 
 # Almer Hilton - Family Group Record
+
+{% assign media = site.mindoc_media | where: "page", "section-name" %}
+{% include media_next.html pages=media %}
+
+{% assign media = site.mindoc_media | where: "page", "section-name" %}
+{% include media_next.html pages=media %}
+
+{% assign media = site.mindoc_media | where: "page", "section-name" %}
+{% include media_next.html pages=media %}
