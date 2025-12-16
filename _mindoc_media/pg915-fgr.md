@@ -10,11 +10,11 @@ _date: 1990
 rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
-identifier:
+identifier: 
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Printed Text
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 09/15/2025
 
 _path: /assets/img/pg15-fgr.jpg 
 order: 17
