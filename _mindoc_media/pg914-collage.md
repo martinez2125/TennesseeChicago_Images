@@ -3,13 +3,13 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
+_title: Family Photograph Collage with Grandparents
 description: 
-creator: 
-_date:
+creator: Alma Hilton Marsells
+_date: 1938
 rights:
-type: 
-source:
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
