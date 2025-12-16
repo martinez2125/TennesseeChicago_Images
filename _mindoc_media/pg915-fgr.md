@@ -3,13 +3,13 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+_title: Family Group Record - Almer, Effie, & their Children
+description: A typed record of the Hilton family.
+creator: Alma Hilton Marsells
+_date: 1990
+rights: Fair Use
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
 format:
