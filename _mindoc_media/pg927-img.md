@@ -20,5 +20,3 @@ _path: /assets/img/pg27-img.jpg
 order: 29
 layout: image_description
 ---
-
-![Description]({{https://github.com/martinez2125/TennesseeChicago_Images}}/assets/img/pg11-collage.jpg)
