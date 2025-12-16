@@ -3,10 +3,10 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: Portrait
-description: 
-creator: 
-_date:
+_title: Painted Portrait of Almer Hilton
+description: Photograph of portrait depicting Almer Hilton, based off of a photograph taken December, 1926.
+creator: Alma Hilton Marsells
+_date: Unknown
 rights:
 type: 
 source:
