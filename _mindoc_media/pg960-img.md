@@ -3,7 +3,7 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: 'Columbine' Union Pacific RR
+_title: Columbine Union Pacific RR
 description: The furnished interior of a train cart (with a Majestic Radio along the wall).
 creator: Unknown
 _date: Unkown
