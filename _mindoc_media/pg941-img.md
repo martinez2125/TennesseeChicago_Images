@@ -3,7 +3,7 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: "Radio Equipment by Majestic" - Train Cart Exterior
+_title: Radio Equipment by Majestic - Train Cart Exterior
 description: 
 creator: Unknown
 _date: Unknown
