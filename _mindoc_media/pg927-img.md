@@ -3,7 +3,7 @@ page: section-name
 title: Hilton Family Binder
 media_type: image
 
-_title: "Sayre School" 1940 Class Photo
+_title: Sayre School 1940 Class Photo
 description:
 creator: Unknown
 _date: 1940
