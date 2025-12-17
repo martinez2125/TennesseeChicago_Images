@@ -3,7 +3,7 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: "Sayre School" Photo, Annotations
+_title: Sayre School Photo, Annotations
 description: Handwritten names of (some) of the individuals in the "Sayre School" photo.
 creator: Unknown
 _date: 1940
