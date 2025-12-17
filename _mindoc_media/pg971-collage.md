@@ -3,18 +3,18 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+_title: Family Photograph Collage
+description: Family photographs of various members of the Hilton's; Effie, Richard, Lynn, Judy.
+creator: Alma Hilton Marsells
+_date: Unknown
+rights: Fair Use
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Physical Photograph
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 9/15/2025
 
 _path: /assets/img/pg71-collage.jpg 
 order: 73
