@@ -7,7 +7,7 @@ _title: Richard
 description: Portrait of Richard.
 creator: Alma Hilton Marsells
 _date: Unknown
-rights: Fair UseDigitization courtesy of Caden J. Miller & Lesly Martinez
+rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
 identifier:
