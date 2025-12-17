@@ -3,18 +3,18 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+_title: Almer's Selective Service Card & Portrait
+description: Almer Hilton's Selective Service Card (WWII) and a portrait of Richard.
+creator: Alma Hilton Marsells
+_date: June 30, 1942, Unknown
+rights: Fair Use
+type: Physical Object(s)
+source: Hilton Family Binder/Album
 identifier:
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Printed Card, Physical Photograph
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 9/15/2025
 
 _path: /assets/img/pg69-imgs.jpg 
 order: 71
