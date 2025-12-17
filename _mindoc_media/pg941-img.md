@@ -10,7 +10,7 @@ _date: Unknown
 rights: Fair Use
 type: Physical Object
 source: Hilton Family Binder/Album
-identifier: 
+identifier:
 contributor:
 format: Physical Photograph
 credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
