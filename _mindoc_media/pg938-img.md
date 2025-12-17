@@ -3,18 +3,18 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
+_title: "Capital Electric Company's - Majestic Style Show and Banquet"
 description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+creator: Unknown
+_date: July 11, 1929
+rights: Fair Use
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Physical Photograph
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 9/15/2025
 
 _path: /assets/img/pg38-img.jpg 
 order: 40
