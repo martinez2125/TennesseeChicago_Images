@@ -3,7 +3,7 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title: Radio Equipment by Majestic - Gathering at Front of Train
+_title: Radio Equipment by Majestic - Gathering at Back of Train
 description: 
 creator: Unknown
 _date: Unknown
