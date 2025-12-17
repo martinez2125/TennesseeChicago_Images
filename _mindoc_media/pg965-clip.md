@@ -12,7 +12,7 @@ type: Physical Object
 source: Hilton Family Binder/Album
 identifier:
 contributor:
-format: Physical Photograph
+format: Newspaper Clipping
 credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
 date_created_(IPTC): 9/15/2025
 
