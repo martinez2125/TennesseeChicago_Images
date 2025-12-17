@@ -3,18 +3,18 @@ page: section-name
 title: Hilton Family Binder (Inside)
 media_type: image
 
-_title:
-description: 
-creator: 
-_date:
-rights:
-type: 
-source:
+_title: Bars are Stars - Newspaper Clipping
+description: A newspaper clipping covering the production of the Mars factory.
+creator: Milwaukee Journal Sentinel
+_date: October 20, 2004
+rights: Fair Use
+type: Physical Object
+source: Hilton Family Binder/Album
 identifier:
 contributor:
-format:
-credit_(IPTC):
-date_created_(IPTC):
+format: Newspaper Clipping
+credit_(IPTC): Digitization courtesy of Caden J. Miller & Lesly Martinez
+date_created_(IPTC): 9/15/2025
 
 _path: /assets/img/pg66-clip.jpg 
 order: 68
